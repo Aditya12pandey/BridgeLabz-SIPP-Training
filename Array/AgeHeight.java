@@ -1,4 +1,4 @@
-//Importing Scanner Class from util package
+//Importing Scanner Class from util 
 import java.util.Scanner;
 //Check among three persons who is the tallest and who is the youngest
 public class AgeHeight
