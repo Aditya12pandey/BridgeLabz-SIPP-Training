@@ -1,4 +1,4 @@
-//Importing Scanner class from util package
+//Importing Scanner class from util 
 import java.util.Scanner;
 //Computing average marks of students in three subject and grading them
 public class AverageMarksGrades
