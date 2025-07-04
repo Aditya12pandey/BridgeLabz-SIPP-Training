@@ -1,5 +1,4 @@
-import java.util.*;
-public class Person {
+class Person {
     //Attribute 
     String name;
     int age ;
@@ -21,6 +20,4 @@ public class Person {
         person1.display();
         person2.display();
     }
-
-
 }
